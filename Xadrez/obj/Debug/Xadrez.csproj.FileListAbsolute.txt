@@ -1,0 +1,7 @@
+C:\TI Academy\Aulas C_Sharp\Ideias\Xadrez\Xadrez\bin\Debug\Xadrez.exe.config
+C:\TI Academy\Aulas C_Sharp\Ideias\Xadrez\Xadrez\bin\Debug\Xadrez.exe
+C:\TI Academy\Aulas C_Sharp\Ideias\Xadrez\Xadrez\bin\Debug\Xadrez.pdb
+C:\TI Academy\Aulas C_Sharp\Ideias\Xadrez\Xadrez\obj\Debug\Xadrez.csprojAssemblyReference.cache
+C:\TI Academy\Aulas C_Sharp\Ideias\Xadrez\Xadrez\obj\Debug\Xadrez.csproj.CoreCompileInputs.cache
+C:\TI Academy\Aulas C_Sharp\Ideias\Xadrez\Xadrez\obj\Debug\Xadrez.exe
+C:\TI Academy\Aulas C_Sharp\Ideias\Xadrez\Xadrez\obj\Debug\Xadrez.pdb
